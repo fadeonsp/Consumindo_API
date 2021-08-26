@@ -1,0 +1,10 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "model": "Mercedes benz c180",
+      "color": "Azul",
+      "price": 194.9
+    }
+  ]
+}
